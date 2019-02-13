@@ -1,7 +1,8 @@
 # Architecture Xcode Templates
 
 This repository is meant to contain Xcode templates to generate modules for iOS arcitecture patterns.
-For now it contains only basic VIPER pattern.
+
+For now it contains only basic VIPER pattern template.
 
 ## Plans
 
@@ -21,9 +22,10 @@ For your convenience you can clone the whole repo at this path and name the work
 Right click the on group you need to add new module to -> New File -> VIPER module.
 
 Xcode dialog tips:
-"File Name": All types, files and module directory names will begin from this value.
+- "File Name": All types, files and module directory names will begin from this value.
 
 Xcode adds directories as folders. To add them as groups just re-add module to the project.
+
 Don't use folders.
 
 ## VIPER module description
